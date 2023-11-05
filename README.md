@@ -16,13 +16,13 @@ Anuj's Calculator is a basic graphical calculator program built using the Tkinte
 2. Clone this repository to your local machine or download the source code as a ZIP file.
 
    ```bash
-   git clone https://github.com/yourusername/anuj-calculator.git
+   git clone https://github.com/yourusername/GUI-CALLCULATION.git
    ```
 
 3. Change the directory to the project folder.
 
    ```bash
-   cd anuj-calculator
+   cd GUI-CALLCULATION
    ```
 
 4. Run the program by executing the following command:
